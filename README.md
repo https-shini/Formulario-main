@@ -25,6 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através da foto abaixo.<br>
 
+![image](https://user-images.githubusercontent.com/100307080/234483139-2074727c-b5d1-4595-b691-929d3f428cc1.png)
+
 ## ☆ Licença
 
 Esse projeto está sob a licença MIT.
